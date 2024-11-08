@@ -1,3 +1,4 @@
+# 16
 # 在线blog发布系统
 【技术栈】 ①：架构: B/S、MVC ②：系统环境：Windows/Mac ③：开发环境：IDEA、JDK1.8、Maven、Mysql ④：技术栈：Java、Mysql、SpringBoot、Mybatis、Vue、Redis 【功能模块】 ①：登录模块：用户登录、用户注册
 
